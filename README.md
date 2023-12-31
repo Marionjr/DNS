@@ -1,5 +1,10 @@
 <p align="center">
-</p>![DNS1](https://github.com/Marionjr/DNS/assets/130338872/bb71fb3c-ad53-434d-8bd0-d286ee42268f)
+
+![DNS1](https://github.com/Marionjr/DNS/assets/130338872/2fac80e4-4d32-4aaf-8876-c7647f18c77e)
+
+  
+</p>
+
 
 
 # DNS
