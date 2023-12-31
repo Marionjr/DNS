@@ -68,8 +68,12 @@ running ipconfig/displaydns
 
 Running ipconfig/flushdns
 
-<img width="1680" alt="Screenshot 2023-12-30 at 8 50 50 PM" src="https://github.com/Marionjr/DNS/assets/130338872/5f9e5b3a-3ebf-4844-8b7b-ad2672a83966">
+<img width="1680" alt="Screenshot 2023-12-30 at 8 59 00 PM" src="https://github.com/Marionjr/DNS/assets/130338872/540d998a-7eaf-437d-a852-0fa77110daa9">
 
+Change the IP Address of "Mainframe" to 8.8.8.8 and observe the ping command on client-1
+
+
+<img width="1680" alt="Screenshot 2023-12-30 at 8 59 20 PM" src="https://github.com/Marionjr/DNS/assets/130338872/3087eadf-f6c3-43b1-bb09-b12b4444ced2">
 
 
 
