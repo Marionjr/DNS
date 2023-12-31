@@ -32,7 +32,7 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 - Using Client-1 as a host computer on the domain, using the command prompt ping the A-Record "Mainframe," ping the CNAME record "Search" and Ping the CNAME Record "photography" and observe the cache by running ipconfig/displaydns
 - observe the cache for all the A-records, CNAME records that were added to the DNS Server
 - Change the IP Address of "Mainframe" to 8.8.8.8 and observe the ping command on client-1
-- Run ipconfig/flushdns and attempt another ping command to "Mainframe" from client-1
+- Run ipconfig/flushdns and attempt another ping command to "Mainframe" from client-1 and observe the updated cache from the DNS server.
 
   <img width="1680" alt="Screenshot 2023-12-30 at 7 50 31 PM" src="https://github.com/Marionjr/DNS/assets/130338872/9d85a878-77de-42f7-bba6-523c3aecf495">
 
@@ -75,5 +75,6 @@ Change the IP Address of "Mainframe" to 8.8.8.8 and observe the ping command on 
 
 <img width="1680" alt="Screenshot 2023-12-30 at 8 59 20 PM" src="https://github.com/Marionjr/DNS/assets/130338872/3087eadf-f6c3-43b1-bb09-b12b4444ced2">
 
+DNS server updated mainframe IP Address from 10.0.0.4 to 8.8.8.8
 
 
