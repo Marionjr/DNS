@@ -17,21 +17,30 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Various Network Protocols ICMP
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 2019 Server
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a A-Record record "Mainframe" with an IP Address 10.0.0.4
+- Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "search" with a FQDM of www.google.com
+- Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com
 
+  <img width="1680" alt="Screenshot 2023-12-30 at 7 50 31 PM" src="https://github.com/Marionjr/DNS/assets/130338872/9d85a878-77de-42f7-bba6-523c3aecf495">
+
+Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a A-Record record "Mainframe" with an IP Address 10.0.0.4
+
+<img width="1680" alt="Screen Shot 2023-10-11 at 10 44 33 PM" src="https://github.com/Marionjr/DNS/assets/130338872/3436d92b-a662-4a3f-b1ab-a85de5bd5c75">
+
+ Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "search" with a FQDM of www.google.com
+
+<img width="1680" alt="Screen Shot 2023-10-11 at 10 46 44 PM" src="https://github.com/Marionjr/DNS/assets/130338872/d4999ab3-8093-4227-b521-719842aad91b">
+
+Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com 
 
 
 
