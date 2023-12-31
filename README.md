@@ -29,7 +29,7 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a A-Record record "Mainframe" with an IP Address 10.0.0.4
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "search" with a FQDM of www.google.com
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com
-- Using Client-1 as a host computer on the domain, using the command prompt ping the A-Record "Mainframe," ping the CNAME record "Search" and Ping the CNAME Record "photography"
+- Using Client-1 as a host computer on the domain, using the command prompt ping the A-Record "Mainframe," ping the CNAME record "Search" and Ping the CNAME Record "photography" and observe the cache by running ipconfig/displaydns
 - 
 
   <img width="1680" alt="Screenshot 2023-12-30 at 7 50 31 PM" src="https://github.com/Marionjr/DNS/assets/130338872/9d85a878-77de-42f7-bba6-523c3aecf495">
@@ -43,6 +43,18 @@ Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folde
 <img width="1680" alt="Screen Shot 2023-10-11 at 10 46 44 PM" src="https://github.com/Marionjr/DNS/assets/130338872/d4999ab3-8093-4227-b521-719842aad91b">
 
 Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com 
+
+<img width="1680" alt="Screen Shot 2023-10-11 at 10 41 42 PM" src="https://github.com/Marionjr/DNS/assets/130338872/8575bb28-71d5-49f0-8802-3ccda12bc4f2">
+
+Ping mainframe
+
+<img width="1680" alt="Screen Shot 2023-10-11 at 10 44 57 PM" src="https://github.com/Marionjr/DNS/assets/130338872/58b5f4f5-c028-4864-a6c2-131b450cf8cd">
+
+ping search
+
+<img width="1680" alt="Screen Shot 2023-10-11 at 10 47 07 PM" src="https://github.com/Marionjr/DNS/assets/130338872/1e25510c-4fb3-477a-8cd3-d4e6e9cb9e00">
+
+ping photography
 
 
 
