@@ -1,5 +1,6 @@
 <p align="center">
-</p>
+</p>![DNS1](https://github.com/Marionjr/DNS/assets/130338872/bb71fb3c-ad53-434d-8bd0-d286ee42268f)
+
 
 # DNS
 Building intuition for DNS
@@ -10,7 +11,7 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [Building Intuition for DNS](https://youtu.be/a351XaGNpUI)
 
 <h2>Environments and Technologies Used</h2>
 
