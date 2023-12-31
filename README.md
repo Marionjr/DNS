@@ -30,7 +30,9 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "search" with a FQDM of www.google.com
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com
 - Using Client-1 as a host computer on the domain, using the command prompt ping the A-Record "Mainframe," ping the CNAME record "Search" and Ping the CNAME Record "photography" and observe the cache by running ipconfig/displaydns
-- 
+- observe the cache for all the A-records, CNAME records that were added to the DNS Server
+- Change the IP Address of "Mainframe" to 8.8.8.8 and observe the ping command on client-1
+- Run ipconfig/flushdns and attempt another ping command to "Mainframe" from client-1
 
   <img width="1680" alt="Screenshot 2023-12-30 at 7 50 31 PM" src="https://github.com/Marionjr/DNS/assets/130338872/9d85a878-77de-42f7-bba6-523c3aecf495">
 
@@ -55,6 +57,15 @@ ping search
 <img width="1680" alt="Screen Shot 2023-10-11 at 10 47 07 PM" src="https://github.com/Marionjr/DNS/assets/130338872/1e25510c-4fb3-477a-8cd3-d4e6e9cb9e00">
 
 ping photography
+
+<img width="1680" alt="Screenshot 2023-12-30 at 8 47 49 PM" src="https://github.com/Marionjr/DNS/assets/130338872/d6275a53-17cd-48f8-9d9a-fe9f705ec1a1">
+
+running ipconfig/displaydns
+
+
+
+<img width="1680" alt="Screenshot 2023-12-30 at 8 50 50 PM" src="https://github.com/Marionjr/DNS/assets/130338872/a463b451-8bae-4307-ac0b-ea6c3cb44fe7">
+
 
 
 
