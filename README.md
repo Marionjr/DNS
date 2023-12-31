@@ -66,6 +66,10 @@ running ipconfig/displaydns
 
 <img width="1680" alt="Screenshot 2023-12-30 at 8 50 50 PM" src="https://github.com/Marionjr/DNS/assets/130338872/a463b451-8bae-4307-ac0b-ea6c3cb44fe7">
 
+Running ipconfig/flushdns
+
+<img width="1680" alt="Screenshot 2023-12-30 at 8 50 50 PM" src="https://github.com/Marionjr/DNS/assets/130338872/5f9e5b3a-3ebf-4844-8b7b-ad2672a83966">
+
 
 
 
