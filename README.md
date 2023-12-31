@@ -1,13 +1,11 @@
 <p align="center">
-![DNS](https://github.com/Marionjr/DNS/assets/130338872/e6420730-794c-480e-af76-74d63c1934ea)
-
 </p>
 
 # DNS
 Building intuition for DNS
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Creating A-Records,CNAME Records, and Local DNS Cache,</h1>
+In this tutorial, we will createe A-Recods, CNAME records while observing the local cache using the IPconfig/displaydns and ipconfig/Flushdns <br />
 
 
 <h2>Video Demonstration</h2>
