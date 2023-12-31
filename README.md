@@ -29,6 +29,8 @@ In this tutorial, we will createe A-Recods, CNAME records while observing the lo
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a A-Record record "Mainframe" with an IP Address 10.0.0.4
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "search" with a FQDM of www.google.com
 - Using the DNS manager on the Domain Controller, in the Forward Lookup Zone folder, add a CNAME record "photography" with a FQDM of www.marionthesecond.com
+- Using Client-1 as a host computer on the domain, using the command prompt ping the A-Record "Mainframe," ping the CNAME record "Search" and Ping the CNAME Record "photography"
+- 
 
   <img width="1680" alt="Screenshot 2023-12-30 at 7 50 31 PM" src="https://github.com/Marionjr/DNS/assets/130338872/9d85a878-77de-42f7-bba6-523c3aecf495">
 
